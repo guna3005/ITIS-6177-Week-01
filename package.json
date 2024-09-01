@@ -1,0 +1,24 @@
+{
+  "name": "itis-6177-week-01",
+  "version": "1.0.0",
+  "description": "basic npm app",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guna3005/ITIS-6177-Week-01.git"
+  },
+  "author": "guna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guna3005/ITIS-6177-Week-01/issues"
+  },
+  "homepage": "https://github.com/guna3005/ITIS-6177-Week-01#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
